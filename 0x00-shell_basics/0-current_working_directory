@@ -1,3 +1,2 @@
-#!/bin/bash
-This is the absolute path name of the current working directory 
-Should be three steps
+#!/bin/bash 
+ This is the absolute path name of the current working directory
