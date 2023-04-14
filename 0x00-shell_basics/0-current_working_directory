@@ -1,2 +1,2 @@
-#!/bin/bash 
-echo $DIR_PATH$(dirname $(realpath "${BASH_SOURCE:-$0}"))
+#!/bin/bash
+pwd
