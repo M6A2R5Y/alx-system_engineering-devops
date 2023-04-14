@@ -1,8 +1,2 @@
 #!/bin/bash
-#Lists all files in the current directory
-ls -la
-#Change to the parent directory
-cd ..
-ls -la
-#Lists all the files in /boot directory
-ls -la /boot
+ls -la . .. /boot
